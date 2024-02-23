@@ -1,0 +1,10 @@
+# input data types
+*.csv
+*.xlsx
+*.xls
+# *.txt
+*.json
+*.xml
+*.exe
+
+/.vscode/
